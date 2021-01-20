@@ -1,3 +1,9 @@
+---
+layout: single
+title:  "데이터 사이언스 생초보 아줌마 Pandas 기초중의 기초 정리입니다"
+---
+
+
 # Pandas 정리
 
 ## 사용법
