@@ -1,3 +1,9 @@
+---
+layout: single
+title:"데이터 사이언스 생초보 Pandas 입문 정리글입니다."
+---
+
+
 # Pandas 정리
 
 ## 사용법
